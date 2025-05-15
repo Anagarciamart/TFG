@@ -1,0 +1,21 @@
+MÉTRICAS DEL GRAFO
+==================
+
+num_nodos: 2975
+num_aristas: 42828
+densidad: 0.00968121478584709
+grado_medio: 28.791932773109245
+componentes_conexas: 1
+num_comunidades: 28
+tamaño_medio_comunidad: 106.25
+modularidad: 0.8702192207660244
+coeficiente_clustering: 0.8453530205932371
+
+TIPOS DE NODOS
+==============
+estudiante: 2946
+  Grado medio: 27.08
+familia: 26
+  Grado medio: 113.31
+nivel: 3
+  Grado medio: 982.00

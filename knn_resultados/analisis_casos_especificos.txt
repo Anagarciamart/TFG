@@ -1,0 +1,49 @@
+ANÁLISIS DE CASOS ESPECÍFICOS PARA SISTEMA DE RECOMENDACIÓN
+==================================================
+
+1. FAMILIAS PROFESIONALES:
+------------------------------
+Familias con mejor predicción (menor error):
+                                 Error_Absoluto            
+                                           mean   std count
+Familia_Profesional                                        
+SEGURIDAD Y MEDIO AMBIENTE                 7.57  7.18    41
+ELECTRICIDAD Y ELECTRÓNICA                 8.09  6.50    43
+COMERCIO Y MARKETING                       8.41  7.24    42
+SANIDAD                                    8.46  8.22    43
+ACTIVIDADES FÍSICAS Y DEPORTIVAS           8.74  9.10    43
+
+Familias con peor predicción (mayor error):
+                        Error_Absoluto             
+                                  mean    std count
+Familia_Profesional                                
+VIDRIO Y CERÁMICA                15.12   2.67     2
+ENERGÍA Y AGUA                   14.97  16.34    40
+ARTES Y ARTESANÍAS               13.88   1.86     2
+INDUSTRIAS ALIMENTARIAS          12.38  14.70    37
+MARÍTIMO-PESQUERA                11.83  15.66    18
+
+2. COMUNIDADES AUTÓNOMAS:
+------------------------------
+Precisión por comunidad:
+                            Precision  N_muestras
+Comunidad_Autonoma                               
+Andalucía                       0.609          46
+Castilla y León                 0.568          44
+Principado de Asturias          0.548          42
+Canarias                        0.543          46
+Región de Murcia                0.500          66
+País Vasco                      0.493          69
+Ceuta                           0.477          44
+Comunitat Valenciana            0.460          50
+Melilla                         0.455          33
+La Rioja                        0.446          56
+Comunidad de Madrid             0.439          66
+Extremadura                     0.432          44
+Cantabria                       0.429          42
+Galicia                         0.417          48
+Aragón                          0.409          44
+Castilla La Mancha              0.405          42
+Comunidad Foral de Navarra      0.397          63
+Islas Baleares                  0.333          39
+

@@ -1,0 +1,17 @@
+=== INFORME RESUMEN DE ANÁLISIS EXPLORATORIO ===
+
+CURSOS DE ESPECIALIZACIÓN:
+- Total de estudiantes: 3,872
+- Número de familias profesionales: 15
+
+PORCENTAJES DE MÓDULOS APROBADOS:
+- Media general: 79.04%
+- Media nivel BASICO: 71.24%
+- Media nivel MEDIO: 78.52%
+- Media nivel SUPERIOR: 84.63%
+
+CICLOS FORMATIVOS:
+- Total de estudiantes: 1,649,803.512
+- Nivel BASICO: 157,164.236 (9.5%)
+- Nivel MEDIO: 645,541.946 (39.1%)
+- Nivel SUPERIOR: 847,097.33 (51.3%)

@@ -1,0 +1,4 @@
+nivel_educativo,Recuento,Media,Desv.Est.,Mínimo,Máximo,Q1,Q3
+BASICO,251,71.43,13.54,0.0,100.0,65.15,78.6
+MEDIO,366,78.27,12.9,0.0,100.0,72.0,86.57
+SUPERIOR,376,84.66,11.69,0.0,99.1,79.47,91.93

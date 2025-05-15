@@ -1,0 +1,63 @@
+INFORME DE ANÁLISIS EXPLORATORIO EXPANDIDO
+Fecha de generación: 2025-05-10 17:52:18
+============================================================
+
+DATASETS ANALIZADOS:
+------------------------------
+- porcentaje_basico: 1404 filas, 5 columnas
+- porcentaje_medio: 1404 filas, 5 columnas
+- porcentaje_superior: 1404 filas, 5 columnas
+- ciclo_basico: 8883 filas, 5 columnas
+- ciclo_medio: 16254 filas, 5 columnas
+- ciclo_superior: 22113 filas, 5 columnas
+- cursos_especializacion: 117 filas, 4 columnas
+- todos_porcentajes: 4212 filas, 5 columnas
+- todos_ciclos: 47250 filas, 6 columnas
+
+
+PRINCIPALES HALLAZGOS:
+------------------------------
+
+Medias por nivel educativo:
+  BASICO: 71.43%
+  MEDIO: 78.27%
+  SUPERIOR: 84.66%
+
+Top 3 Comunidades Autónomas:
+  País Vasco: 90.32%
+  Castilla La Mancha: 90.09%
+  Cantabria: 88.07%
+
+
+CICLOS FORMATIVOS:
+------------------------------
+ciclo_basico: 74,439 matrículas totales
+ciclo_medio: 298,319 matrículas totales
+ciclo_superior: 388,804 matrículas totales
+
+
+GRÁFICOS GENERADOS:
+------------------------------
+1. Análisis por Comunidad Autónoma:
+   - Boxplot por comunidad y nivel
+   - Violin plot por nivel educativo
+   - Rankings de comunidades
+   - Heatmap de diferencias
+
+2. Análisis por Familia Profesional:
+   - Top y bottom familias
+   - Scatter plot comparativo
+   - Evolución de familias
+
+3. Análisis por Sexo:
+   - Heatmap de diferencias
+   - Top familias por diferencia de sexo
+
+4. Análisis de Ciclos Formativos:
+   - Top ciclos por nivel
+   - Distribución por sexo
+   - Distribución por titularidad
+
+5. Estadísticas Generales:
+   - Comparaciones entre niveles
+   - Resúmenes de matrículas

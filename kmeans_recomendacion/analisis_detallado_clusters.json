@@ -1,0 +1,191 @@
+{
+  "0": {
+    "estadisticas_porcentaje": {
+      "media": 73.73502994011976,
+      "mediana": 74.15,
+      "std": 10.410271572024673,
+      "min": 39.8,
+      "max": 99.2
+    },
+    "top_5_familias": {
+      "TRANSPORTE Y MANTENIMIENTO DE VEH\u00cdCULOS": 50,
+      "INFORM\u00c1TICA Y COMUNICACIONES": 38,
+      "MADERA, MUEBLE Y CORCHO": 38,
+      "INSTALACI\u00d3N Y MANTENIMIENTO": 30,
+      "TEXTIL, CONFECCI\u00d3N Y PIEL": 28
+    },
+    "distribucion_exito": {
+      "exitosos": 91,
+      "no_exitosos": 243,
+      "tasa_exito": 27.245508982035926
+    }
+  },
+  "1": {
+    "estadisticas_porcentaje": {
+      "media": 77.10660146699266,
+      "mediana": 77.1,
+      "std": 11.018030251707737,
+      "min": 48.9,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "ADMINISTRACI\u00d3N Y GESTI\u00d3N": 48,
+      "COMERCIO Y MARKETING": 43,
+      "AGRARIA": 42,
+      "ARTES GR\u00c1FICAS": 40,
+      "HOSTELER\u00cdA Y TURISMO": 40
+    },
+    "distribucion_exito": {
+      "exitosos": 169,
+      "no_exitosos": 240,
+      "tasa_exito": 41.32029339853301
+    }
+  },
+  "2": {
+    "estadisticas_porcentaje": {
+      "media": 82.4034090909091,
+      "mediana": 82.8,
+      "std": 9.670169702605131,
+      "min": 52.2,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "ADMINISTRACI\u00d3N Y GESTI\u00d3N": 37,
+      "AGRARIA": 35,
+      "ACTIVIDADES F\u00cdSICAS Y DEPORTIVAS": 35,
+      "COMERCIO Y MARKETING": 31,
+      "ELECTRICIDAD Y ELECTR\u00d3NICA": 30
+    },
+    "distribucion_exito": {
+      "exitosos": 224,
+      "no_exitosos": 128,
+      "tasa_exito": 63.63636363636363
+    }
+  },
+  "3": {
+    "estadisticas_porcentaje": {
+      "media": 86.21107954545454,
+      "mediana": 86.85,
+      "std": 8.345506798963514,
+      "min": 53.2,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "SANIDAD": 29,
+      "SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD": 29,
+      "TRANSPORTE Y MANTENIMIENTO DE VEH\u00cdCULOS": 28,
+      "INSTALACI\u00d3N Y MANTENIMIENTO": 26,
+      "MADERA, MUEBLE Y CORCHO": 26
+    },
+    "distribucion_exito": {
+      "exitosos": 274,
+      "no_exitosos": 78,
+      "tasa_exito": 77.8409090909091
+    }
+  },
+  "4": {
+    "estadisticas_porcentaje": {
+      "media": 81.92385321100917,
+      "mediana": 81.8,
+      "std": 10.73240519657827,
+      "min": 54.1,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "TRANSPORTE Y MANTENIMIENTO DE VEH\u00cdCULOS": 36,
+      "SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD": 32,
+      "TEXTIL, CONFECCI\u00d3N Y PIEL": 30,
+      "MADERA, MUEBLE Y CORCHO": 30,
+      "INFORM\u00c1TICA Y COMUNICACIONES": 29
+    },
+    "distribucion_exito": {
+      "exitosos": 185,
+      "no_exitosos": 142,
+      "tasa_exito": 56.574923547400616
+    }
+  },
+  "5": {
+    "estadisticas_porcentaje": {
+      "media": 86.76676557863502,
+      "mediana": 88.1,
+      "std": 9.063586186874755,
+      "min": 53.4,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "ACTIVIDADES F\u00cdSICAS Y DEPORTIVAS": 40,
+      "AGRARIA": 33,
+      "ADMINISTRACI\u00d3N Y GESTI\u00d3N": 32,
+      "EDIFICACI\u00d3N Y OBRA CIVIL": 32,
+      "COMERCIO Y MARKETING": 30
+    },
+    "distribucion_exito": {
+      "exitosos": 266,
+      "no_exitosos": 71,
+      "tasa_exito": 78.93175074183976
+    }
+  },
+  "6": {
+    "estadisticas_porcentaje": {
+      "media": 72.71521739130435,
+      "mediana": 72.4,
+      "std": 9.384312781612197,
+      "min": 43.3,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "COMERCIO Y MARKETING": 40,
+      "AGRARIA": 39,
+      "ELECTRICIDAD Y ELECTR\u00d3NICA": 39,
+      "ADMINISTRACI\u00d3N Y GESTI\u00d3N": 35,
+      "HOSTELER\u00cdA Y TURISMO": 32
+    },
+    "distribucion_exito": {
+      "exitosos": 68,
+      "no_exitosos": 300,
+      "tasa_exito": 18.478260869565215
+    }
+  },
+  "7": {
+    "estadisticas_porcentaje": {
+      "media": 86.45533707865168,
+      "mediana": 88.4,
+      "std": 9.361536508583988,
+      "min": 54.8,
+      "max": 100.0
+    },
+    "top_5_familias": {
+      "SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD": 40,
+      "SANIDAD": 37,
+      "TRANSPORTE Y MANTENIMIENTO DE VEH\u00cdCULOS": 34,
+      "QU\u00cdMICA": 28,
+      "INFORM\u00c1TICA Y COMUNICACIONES": 27
+    },
+    "distribucion_exito": {
+      "exitosos": 267,
+      "no_exitosos": 89,
+      "tasa_exito": 75.0
+    }
+  },
+  "8": {
+    "estadisticas_porcentaje": {
+      "media": 33.936036036036036,
+      "mediana": 42.5,
+      "std": 20.454538473017283,
+      "min": 0.0,
+      "max": 56.9
+    },
+    "top_5_familias": {
+      "INFORM\u00c1TICA Y COMUNICACIONES": 10,
+      "TRANSPORTE Y MANTENIMIENTO DE VEH\u00cdCULOS": 9,
+      "INSTALACI\u00d3N Y MANTENIMIENTO": 9,
+      "INDUSTRIAS ALIMENTARIAS": 8,
+      "TEXTIL, CONFECCI\u00d3N Y PIEL": 8
+    },
+    "distribucion_exito": {
+      "exitosos": 0,
+      "no_exitosos": 111,
+      "tasa_exito": 0.0
+    }
+  }
+}

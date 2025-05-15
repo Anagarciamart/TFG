@@ -1,0 +1,6 @@
+,exitoso,exitoso,Porcentajes total de módulos aprobados,Porcentajes total de módulos aprobados
+,mean,count,mean,std
+nivel_educativo,,,,
+BASICO,0.248,734,71.238,15.774
+MEDIO,0.492,1087,78.523,13.485
+SUPERIOR,0.735,1125,84.628,12.424

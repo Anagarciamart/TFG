@@ -1,0 +1,64 @@
+{
+  "perfil": {
+    "sexo": "Mujeres",
+    "comunidad": "Comunidad de Madrid",
+    "nivel": "BASICO",
+    "familia": "IMAGEN PERSONAL",
+    "rendimiento_previo": 3,
+    "objetivo_profesional": 1,
+    "fecha_consulta": "2025-05-11 18:53:28"
+  },
+  "estadisticas": {
+    "probabilidad_exito": 0.42857142857142855,
+    "cluster_asignado": 1,
+    "numero_vecinos_similares": 10,
+    "cluster_exitoso": false,
+    "porcentaje_medio_cluster": 74.26478129713425
+  },
+  "recomendaciones": [
+    {
+      "tipo": "Familia Profesional",
+      "valor": "ELECTRICIDAD Y ELECTRÓNICA",
+      "porcentaje_aprobados_medio": 83.35,
+      "estudiantes_similares": 2,
+      "confianza": 0.2857142857142857,
+      "nivel_recomendado": "BASICO"
+    },
+    {
+      "tipo": "Familia Profesional",
+      "valor": "INDUSTRIAS ALIMENTARIAS",
+      "porcentaje_aprobados_medio": 83.3,
+      "estudiantes_similares": 1,
+      "confianza": 0.14285714285714285,
+      "nivel_recomendado": "MEDIO"
+    },
+    {
+      "tipo": "Familia Profesional",
+      "valor": "ADMINISTRACIÓN Y GESTIÓN",
+      "porcentaje_aprobados_medio": 83.2,
+      "estudiantes_similares": 1,
+      "confianza": 0.14285714285714285,
+      "nivel_recomendado": "SUPERIOR"
+    },
+    {
+      "tipo": "Familia Profesional",
+      "valor": "INFORMÁTICA Y COMUNICACIONES",
+      "porcentaje_aprobados_medio": 96.8,
+      "estudiantes_similares": 1,
+      "confianza": 0.14285714285714285,
+      "nivel_recomendado": "SUPERIOR"
+    },
+    {
+      "tipo": "Familia Profesional",
+      "valor": "ARTES GRÁFICAS",
+      "porcentaje_aprobados_medio": 95.1,
+      "estudiantes_similares": 1,
+      "confianza": 0.14285714285714285,
+      "nivel_recomendado": "MEDIO"
+    }
+  ],
+  "recomendaciones_adicionales": [
+    "Tu rendimiento académico previo es bueno, considera ciclos de grado superior",
+    "Podrías optar por familias profesionales más exigentes técnicamente"
+  ]
+}
