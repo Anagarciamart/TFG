@@ -1,0 +1,5 @@
+Modelo,Tipo,Accuracy,F1-Score,R²,RMSE,Tiempo (s),Complejidad,Interpretabilidad,Silhouette Score,Calinski-Harabasz,Davies-Bouldin,Número de Clusters,Número de Nodos,Número de Aristas,Modularidad,Número de Comunidades,Porcentaje de Ruido
+KNN,Supervisado,0.85,0.82,0.78,15.5,8.029115676879883,Media,Alta,,,,,,,,,
+K-means,No supervisado,,,,,23.371153354644775,Baja,Media,0.65,850.0,1.2,9.0,,,,,
+GNN,Basado en grafos,,,,,15.111010074615479,Alta,Media,,,,,2975.0,42828.0,0.8702192207660244,28.0,
+DBSCAN,Basado en densidad,,,,,69.73502445220947,Media,Alta,,,,2.0,,,,,0.3394433129667346

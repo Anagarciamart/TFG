@@ -1,0 +1,212 @@
+{
+  "resumen_ejecutivo": {
+    "mejor_modelo": "KNN",
+    "puntuacion_mejor_modelo": 7.300000000000001,
+    "segundo_mejor": "GNN",
+    "modelos_evaluados": [
+      "KNN",
+      "K-means",
+      "GNN",
+      "DBSCAN"
+    ],
+    "criterios_evaluacion": [
+      "Precisi\u00f3n",
+      "Interpretabilidad",
+      "Tiempo de Ejecuci\u00f3n",
+      "Escalabilidad",
+      "Versatilidad"
+    ]
+  },
+  "metricas_detalladas": {
+    "Modelo": {
+      "0": "KNN",
+      "1": "K-means",
+      "2": "GNN",
+      "3": "DBSCAN"
+    },
+    "Tipo": {
+      "0": "Supervisado",
+      "1": "No supervisado",
+      "2": "Basado en grafos",
+      "3": "Basado en densidad"
+    },
+    "Accuracy": {
+      "0": 0.85,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    "F1-Score": {
+      "0": 0.82,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    "R\u00b2": {
+      "0": 0.78,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    "RMSE": {
+      "0": 15.5,
+      "1": NaN,
+      "2": NaN,
+      "3": NaN
+    },
+    "Tiempo (s)": {
+      "0": 8.029115676879883,
+      "1": 23.371153354644775,
+      "2": 15.111010074615479,
+      "3": 69.73502445220947
+    },
+    "Complejidad": {
+      "0": "Media",
+      "1": "Baja",
+      "2": "Alta",
+      "3": "Media"
+    },
+    "Interpretabilidad": {
+      "0": "Alta",
+      "1": "Media",
+      "2": "Media",
+      "3": "Alta"
+    },
+    "Silhouette Score": {
+      "0": NaN,
+      "1": 0.65,
+      "2": NaN,
+      "3": NaN
+    },
+    "Calinski-Harabasz": {
+      "0": NaN,
+      "1": 850.0,
+      "2": NaN,
+      "3": NaN
+    },
+    "Davies-Bouldin": {
+      "0": NaN,
+      "1": 1.2,
+      "2": NaN,
+      "3": NaN
+    },
+    "N\u00famero de Clusters": {
+      "0": NaN,
+      "1": 9.0,
+      "2": NaN,
+      "3": 2.0
+    },
+    "N\u00famero de Nodos": {
+      "0": NaN,
+      "1": NaN,
+      "2": 2975.0,
+      "3": NaN
+    },
+    "N\u00famero de Aristas": {
+      "0": NaN,
+      "1": NaN,
+      "2": 42828.0,
+      "3": NaN
+    },
+    "Modularidad": {
+      "0": NaN,
+      "1": NaN,
+      "2": 0.8702192207660244,
+      "3": NaN
+    },
+    "N\u00famero de Comunidades": {
+      "0": NaN,
+      "1": NaN,
+      "2": 28.0,
+      "3": NaN
+    },
+    "Porcentaje de Ruido": {
+      "0": NaN,
+      "1": NaN,
+      "2": NaN,
+      "3": 0.3394433129667346
+    }
+  },
+  "tiempos_ejecucion": {
+    "KNN": 8.029115676879883,
+    "K-means": 23.371153354644775,
+    "GNN": 15.111010074615479,
+    "DBSCAN": 69.73502445220947
+  },
+  "evaluacion_final": {
+    "KNN": 7.300000000000001,
+    "K-means": 6.050000000000001,
+    "GNN": 7.05,
+    "DBSCAN": 6.75
+  },
+  "recomendaciones": {
+    "KNN": {
+      "fortalezas": [
+        "Alta interpretabilidad",
+        "Buena precisi\u00f3n para clasificaci\u00f3n",
+        "F\u00e1cil de explicar a usuarios no t\u00e9cnicos"
+      ],
+      "debilidades": [
+        "Problemas de escalabilidad con datasets grandes",
+        "Sensible a la selecci\u00f3n de K",
+        "Tiempo de predicci\u00f3n puede ser alto"
+      ],
+      "casos_uso": [
+        "Recomendaciones personalizadas para estudiantes individuales",
+        "Identificaci\u00f3n de perfiles similares",
+        "Predicci\u00f3n de \u00e9xito acad\u00e9mico"
+      ]
+    },
+    "K-means": {
+      "fortalezas": [
+        "R\u00e1pido y escalable",
+        "Bueno para segmentaci\u00f3n de estudiantes",
+        "Bajo consumo de recursos"
+      ],
+      "debilidades": [
+        "Requiere n\u00famero de clusters predefinido",
+        "Sensible a outliers",
+        "Asume clusters esf\u00e9ricos"
+      ],
+      "casos_uso": [
+        "Segmentaci\u00f3n de estudiantes",
+        "Identificaci\u00f3n de grupos de rendimiento",
+        "An\u00e1lisis exploratorio"
+      ]
+    },
+    "GNN": {
+      "fortalezas": [
+        "Captura relaciones complejas",
+        "Muy vers\u00e1til",
+        "Bueno para datos relacionales"
+      ],
+      "debilidades": [
+        "Alta complejidad computacional",
+        "Requiere m\u00e1s recursos",
+        "M\u00e1s dif\u00edcil de interpretar"
+      ],
+      "casos_uso": [
+        "An\u00e1lisis de redes educativas",
+        "Detecci\u00f3n de comunidades",
+        "Recomendaciones basadas en relaciones"
+      ]
+    },
+    "DBSCAN": {
+      "fortalezas": [
+        "No requiere n\u00famero de clusters predefinido",
+        "Detecta outliers autom\u00e1ticamente",
+        "Encuentra clusters de forma arbitraria"
+      ],
+      "debilidades": [
+        "Sensible a par\u00e1metros eps y min_samples",
+        "Problemas con densidades variables",
+        "No funciona bien con alta dimensionalidad"
+      ],
+      "casos_uso": [
+        "Detecci\u00f3n de estudiantes at\u00edpicos",
+        "Identificaci\u00f3n de grupos naturales",
+        "An\u00e1lisis de casos especiales"
+      ]
+    }
+  }
+}

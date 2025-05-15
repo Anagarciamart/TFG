@@ -1,0 +1,85 @@
+{
+  "-1": {
+    "cluster_id": -1,
+    "tipo": "RUIDO",
+    "tama\u00f1o": 10,
+    "porcentaje_medio": 5.54,
+    "porcentaje_std": 12.111261976634255,
+    "tasa_exito": 0.0,
+    "familia_principal": "INFORM\u00c1TICA Y COMUNICACIONES",
+    "nivel_principal": "BASICO",
+    "comunidad_principal": "Ceuta",
+    "distribucion_familias": {
+      "INFORM\u00c1TICA Y COMUNICACIONES": 3,
+      "INSTALACI\u00d3N Y MANTENIMIENTO": 2,
+      "IMAGEN PERSONAL": 1,
+      "HOSTELER\u00cdA Y TURISMO": 1,
+      "FABRICACI\u00d3N MEC\u00c1NICA": 1
+    },
+    "distribucion_niveles": {
+      "BASICO": 9,
+      "SUPERIOR": 1
+    },
+    "distribucion_sexo": {
+      "Mujeres": 7,
+      "Hombres": 2,
+      "AMBOS SEXOS": 1
+    }
+  },
+  "0": {
+    "cluster_id": 0,
+    "tipo": "CLUSTER_0",
+    "tama\u00f1o": 2917,
+    "porcentaje_medio": 79.80620500514227,
+    "porcentaje_std": 12.528461940878827,
+    "tasa_exito": 0.5293109358930408,
+    "familia_principal": "HOSTELER\u00cdA Y TURISMO",
+    "nivel_principal": "SUPERIOR",
+    "comunidad_principal": "Comunitat Valenciana",
+    "distribucion_familias": {
+      "HOSTELER\u00cdA Y TURISMO": 161,
+      "ELECTRICIDAD Y ELECTR\u00d3NICA": 160,
+      "TRANSPORTE Y MANTENIMIENTO DE VEH\u00cdCULOS": 157,
+      "IMAGEN PERSONAL": 157,
+      "COMERCIO Y MARKETING": 156
+    },
+    "distribucion_niveles": {
+      "SUPERIOR": 1115,
+      "MEDIO": 1079,
+      "BASICO": 723
+    },
+    "distribucion_sexo": {
+      "AMBOS SEXOS": 985,
+      "Hombres": 981,
+      "Mujeres": 951
+    }
+  },
+  "1": {
+    "cluster_id": 1,
+    "tipo": "CLUSTER_1",
+    "tama\u00f1o": 19,
+    "porcentaje_medio": 0.0,
+    "porcentaje_std": 0.0,
+    "tasa_exito": 0.0,
+    "familia_principal": "ADMINISTRACI\u00d3N Y GESTI\u00d3N",
+    "nivel_principal": "SUPERIOR",
+    "comunidad_principal": "Ceuta",
+    "distribucion_familias": {
+      "ADMINISTRACI\u00d3N Y GESTI\u00d3N": 7,
+      "INFORM\u00c1TICA Y COMUNICACIONES": 5,
+      "COMERCIO Y MARKETING": 4,
+      "INSTALACI\u00d3N Y MANTENIMIENTO": 1,
+      "ACTIVIDADES F\u00cdSICAS Y DEPORTIVAS": 1
+    },
+    "distribucion_niveles": {
+      "SUPERIOR": 9,
+      "MEDIO": 8,
+      "BASICO": 2
+    },
+    "distribucion_sexo": {
+      "AMBOS SEXOS": 7,
+      "Mujeres": 6,
+      "Hombres": 6
+    }
+  }
+}

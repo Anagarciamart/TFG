@@ -1,0 +1,91 @@
+============================================================
+INFORME DE COMPARACIÓN DE MODELOS DE RECOMENDACIÓN EDUCATIVA
+============================================================
+
+RESUMEN EJECUTIVO
+--------------------
+Mejor modelo: KNN
+Puntuación: 7.30/10
+Segundo mejor: GNN
+Modelos evaluados: KNN, K-means, GNN, DBSCAN
+
+TIEMPOS DE EJECUCIÓN
+--------------------
+KNN: 8.03 segundos
+GNN: 15.11 segundos
+K-means: 23.37 segundos
+DBSCAN: 69.74 segundos
+
+EVALUACIÓN FINAL
+--------------------
+KNN: 7.30/10
+GNN: 7.05/10
+DBSCAN: 6.75/10
+K-means: 6.05/10
+
+RECOMENDACIONES POR MODELO
+------------------------------
+
+KNN:
+Fortalezas:
+  • Alta interpretabilidad
+  • Buena precisión para clasificación
+  • Fácil de explicar a usuarios no técnicos
+Debilidades:
+  • Problemas de escalabilidad con datasets grandes
+  • Sensible a la selección de K
+  • Tiempo de predicción puede ser alto
+Casos de uso recomendados:
+  • Recomendaciones personalizadas para estudiantes individuales
+  • Identificación de perfiles similares
+  • Predicción de éxito académico
+
+K-means:
+Fortalezas:
+  • Rápido y escalable
+  • Bueno para segmentación de estudiantes
+  • Bajo consumo de recursos
+Debilidades:
+  • Requiere número de clusters predefinido
+  • Sensible a outliers
+  • Asume clusters esféricos
+Casos de uso recomendados:
+  • Segmentación de estudiantes
+  • Identificación de grupos de rendimiento
+  • Análisis exploratorio
+
+GNN:
+Fortalezas:
+  • Captura relaciones complejas
+  • Muy versátil
+  • Bueno para datos relacionales
+Debilidades:
+  • Alta complejidad computacional
+  • Requiere más recursos
+  • Más difícil de interpretar
+Casos de uso recomendados:
+  • Análisis de redes educativas
+  • Detección de comunidades
+  • Recomendaciones basadas en relaciones
+
+DBSCAN:
+Fortalezas:
+  • No requiere número de clusters predefinido
+  • Detecta outliers automáticamente
+  • Encuentra clusters de forma arbitraria
+Debilidades:
+  • Sensible a parámetros eps y min_samples
+  • Problemas con densidades variables
+  • No funciona bien con alta dimensionalidad
+Casos de uso recomendados:
+  • Detección de estudiantes atípicos
+  • Identificación de grupos naturales
+  • Análisis de casos especiales
+
+CONCLUSIONES
+---------------
+1. El modelo KNN presenta el mejor balance general
+2. Para aplicaciones en tiempo real, K-means ofrece el mejor rendimiento
+3. Para análisis profundo de relaciones, GNN es la mejor opción
+4. Para detección de casos especiales, DBSCAN es ideal
+5. Se recomienda un enfoque híbrido según el caso de uso
